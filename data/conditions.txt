@@ -1,0 +1,58 @@
+Slush \ Lumberjack
+Slush \ Wood Cutter
+Slush \ Village Run
+Slush \ Upper Main St
+Slush \ Cascade
+Slush \ Sodergren's
+Slush \ Upper Pioneer
+Slush \ The Gully
+Slush \ Hootowl
+Slush \ Lower Pioneer
+Slush \ West Ridge
+Slush \ Luggi's
+Slush \ Stump Alley
+Slush \ Ax Handle
+Slush \ Wood Cutter
+Slush \ The Gulch
+Park \ Magic Mogules
+Park \ Sidewinder
+Park \ Forerunner
+Park \ Pinball
+Park \ Pipeline
+Park \ The Straits
+Park \ The Stash
+Park \ Moonshine
+Groomed \ Burnout
+Groomed \ The Plunge
+Groomed \ Springboard
+Groomed \ Tonini's
+Groomed \ The Chute
+Groomed \ Ax Handle
+Groomed \ Stump Alley
+Groomed \ Castle Peak
+Groomed \ Promised Land
+Groomed \ Lower Grouse Alley
+Groomed \ Polaris
+Groomed \ Lumberjack
+Groomed \ Wood Cutter
+Groomed \ Upper Main St
+Groomed \ The Gulch
+Groomed \ Skidtrail
+Powder \ Gooseneck
+Powder \ Washoe
+Powder \ Martis
+Powder \ Boca
+Powder \ Stampede
+Powder \ Sugar Pine Glade
+Powder \ The Islands
+Powder \ Monument Glade
+Powder \ Challenger
+Powder \ Sierra Grande
+Powder \ Rail Splitter
+Powder \ Rendezvous Glade
+Powder \ The Chute
+Powder \ Sawmill Glade
+Powder \ Springboard
+Powder \ The Plunge
+Powder \ Ax Handle
+Powder \ Dutchman

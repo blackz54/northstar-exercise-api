@@ -1,0 +1,104 @@
+Beginner \ Lower Main Street
+Beginner \ Lumberjack
+Beginner \ Skid Trail
+Beginner \ Upper Main Street
+Beginner \ Carpet Bowl
+Beginner \ Easy Street
+Beginner \ Lower Lion's Way
+Beginner \ The Gulch
+Beginner \ Woodcutter
+Beginner \ Bearly
+Beginner \ Condo Run
+Beginner \ Village Run
+Beginner \ Playground
+Beginner \ Forerunner
+Beginner \ Lil Stash
+Intermediate \ Lookout Bypass
+Intermediate \ Sidewinder
+Intermediate \ Moonshine
+Intermediate \ Schwarzstrasse
+Intermediate \ Washoe
+Intermediate \ Stump Alley
+Intermediate \ The Chute
+Intermediate \ The Flume
+Intermediate \ Upper Jibboom
+Intermediate \ West Ridge
+Intermediate \ Ax Handle
+Intermediate \ Cascades
+Intermediate \ Cat's Face
+Intermediate \ Delight
+Intermediate \ Drop Off
+Intermediate \ Dutchman
+Intermediate \ East Ridge
+Intermediate \ Flying Squirrel
+Intermediate \ Grouse Alley Lower
+Intermediate \ Logger's Loop
+Intermediate \ Lookout Road
+Intermediate \ Luggi's
+Intermediate \ Powder Bowl
+Intermediate \ Ski-Cology KAZ
+Intermediate \ Northern Lights
+Intermediate \ Overland Trail
+Intermediate \ Pioneer
+Intermediate \ Shortcut
+Intermediate \ Sodergren's
+Intermediate \ The Face
+Intermediate \ The Glades
+Intermediate \ The Gully
+Intermediate \ Timberline
+Intermediate \ Upper Lion's Way
+Intermediate \ Upper Pioneer
+Intermediate \ Wagon Wheel KAZ
+Intermediate \ Boondocks
+Intermediate \ Christmas Tree
+Intermediate \ Cowboy Pass
+Intermediate \ Deerskin
+Intermediate \ Gateway
+Intermediate \ Goldmine
+Intermediate \ Hoot Owl
+Intermediate \ Lookout Bypass
+Intermediate \ Castle Peak
+Intermediate \ Drifter
+Intermediate \ Drifter Connector
+Intermediate \ The Islands
+Intermediate \ Coyote Fork
+Intermediate \ Home Run
+Intermediate \ The Woods
+Advanced \ Martis
+Advanced \ Prosser
+Advanced \ Stampede
+Advanced \ Sugar Pine Glade
+Advanced \ The Camp Glade
+Advanced \ Upper Martis
+Advanced \ Boca
+Advanced \ Gooseneck
+Advanced \ Lookout Glade
+Advanced \ Comstock Glade
+Advanced \ Corridor
+Advanced \ Crosscut
+Advanced \ Grouse Alley
+Advanced \ Hornet's Nest
+Advanced \ Lower Jibboom
+Advanced \ Rendezvous Glade
+Advanced \ Sawmill Glade
+Advanced \ Spring Board
+Advanced \ Surprise
+Advanced \ The Plunge
+Advanced \ Tonini's
+Advanced \ Backdoor
+Advanced \ Burnout
+Advanced \ Challenger
+Advanced \ Down Under
+Advanced \ Follow Me
+Advanced \ Iron Horse
+Advanced \ Lower Burnout
+Advanced \ Monument Glade
+Advanced \ Polaris
+Advanced \ Promised Land
+Advanced \ Rail Splitter
+Advanced \ Sierra Grande
+Advanced \ The Rapids
+Advanced \ Why Not
+Advanced \ Pinball
+Advanced \ Pipeline
+Advanced \ The Straits
