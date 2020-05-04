@@ -1,3 +1,4 @@
 language: python
+install: requests
 script:
   - python3 tests/APIEndpointTests.py
