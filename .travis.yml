@@ -1,4 +1,4 @@
 language: python
-install: requests
+install: skip
 script:
   - python3 tests/APIEndpointTests.py
