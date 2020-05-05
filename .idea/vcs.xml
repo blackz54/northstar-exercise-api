@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/serverless-stack/northstar-app-client" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/serverless-stack/northstar-recommendations" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/serverless_stack/northstar-app-client" vcs="Git" />

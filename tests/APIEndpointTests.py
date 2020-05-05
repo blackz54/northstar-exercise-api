@@ -8,7 +8,6 @@ class APIEndpointTestFunctions(unittest.TestCase):
         self.url = 'https://gu0nyc6yrg.execute-api.us-east-1.amazonaws.com/dev'
 
 
-
     def test_create_success(self):
         data = {'id': 'Advanced', 'run': 'Backdoor'}
         result = requests.post(self.url + '/todos', data=json.dumps(data))
