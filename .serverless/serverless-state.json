@@ -208,7 +208,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z/project.zip"
+                "S3Key": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z/project.zip"
               },
               "FunctionName": "project-dev-create",
               "Handler": "todos/create.createRun",
@@ -232,14 +232,14 @@
               "IamRoleLambdaExecution"
             ]
           },
-          "CreateLambdaVersionzMVHgekkPY2ycrN0jBDi9MzRtoOezI3XHu5mj3l5esU": {
+          "CreateLambdaVersionqKqc3ABD7mhyfS4WNoosBRZuzwLDbQBzYGDOxScE": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "CreateLambdaFunction"
               },
-              "CodeSha256": "ZnGZxk6ItWFyZQ5Ao2RnZju/Qv6FQSDGfBooLYzal+4="
+              "CodeSha256": "RdztzY8WtYl/8Ck6oszjXDJP6S9wgXWABm2Wd8wnrvM="
             }
           },
           "ListLambdaFunction": {
@@ -249,7 +249,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z/project.zip"
+                "S3Key": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z/project.zip"
               },
               "FunctionName": "project-dev-list",
               "Handler": "todos/list.getAllRuns",
@@ -273,14 +273,14 @@
               "IamRoleLambdaExecution"
             ]
           },
-          "ListLambdaVersionPiYj7j8cuRpQ6BoWBbGMswSR0KsubUXePe5KIhfiOhQ": {
+          "ListLambdaVersionfGqcFWkaWs2VqDQbBe7nZDSfa9l0zgXlo5NMpS4ncLM": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "ListLambdaFunction"
               },
-              "CodeSha256": "ZnGZxk6ItWFyZQ5Ao2RnZju/Qv6FQSDGfBooLYzal+4="
+              "CodeSha256": "RdztzY8WtYl/8Ck6oszjXDJP6S9wgXWABm2Wd8wnrvM="
             }
           },
           "GetLambdaFunction": {
@@ -290,7 +290,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z/project.zip"
+                "S3Key": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z/project.zip"
               },
               "FunctionName": "project-dev-get",
               "Handler": "todos/get.getRun",
@@ -314,14 +314,14 @@
               "IamRoleLambdaExecution"
             ]
           },
-          "GetLambdaVersionZRAr0HhL7XQfVTEHgIzHDOyV80JXOq4DXUY5Xnm0E": {
+          "GetLambdaVersionSiEsAScH1eaEoHthkMpXg3ksCdVmamurDQhcsVojlNU": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "GetLambdaFunction"
               },
-              "CodeSha256": "ZnGZxk6ItWFyZQ5Ao2RnZju/Qv6FQSDGfBooLYzal+4="
+              "CodeSha256": "RdztzY8WtYl/8Ck6oszjXDJP6S9wgXWABm2Wd8wnrvM="
             }
           },
           "GetIdLambdaFunction": {
@@ -331,7 +331,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z/project.zip"
+                "S3Key": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z/project.zip"
               },
               "FunctionName": "project-dev-getId",
               "Handler": "todos/getId.getIdRuns",
@@ -355,14 +355,14 @@
               "IamRoleLambdaExecution"
             ]
           },
-          "GetIdLambdaVersionwxndlsnaro59ERRSdTkPNNwZXs1Bcb8JTNVWfG55Es": {
+          "GetIdLambdaVersion1aGrNNmFuAEXtzp0UqjZmbv6HCFm98oDvglvqOQRfOY": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "GetIdLambdaFunction"
               },
-              "CodeSha256": "ZnGZxk6ItWFyZQ5Ao2RnZju/Qv6FQSDGfBooLYzal+4="
+              "CodeSha256": "RdztzY8WtYl/8Ck6oszjXDJP6S9wgXWABm2Wd8wnrvM="
             }
           },
           "UpdateLambdaFunction": {
@@ -372,7 +372,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z/project.zip"
+                "S3Key": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z/project.zip"
               },
               "FunctionName": "project-dev-update",
               "Handler": "todos/update.updateRun",
@@ -396,14 +396,14 @@
               "IamRoleLambdaExecution"
             ]
           },
-          "UpdateLambdaVersionnpXlttr9VYvnsjclAciRee3hiSVsMwP4HDnzoXG2IU": {
+          "UpdateLambdaVersionFtFHffybcschQaNH9ulVdyZ0cIemQgpaSO7i4Rrwk": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "UpdateLambdaFunction"
               },
-              "CodeSha256": "ZnGZxk6ItWFyZQ5Ao2RnZju/Qv6FQSDGfBooLYzal+4="
+              "CodeSha256": "RdztzY8WtYl/8Ck6oszjXDJP6S9wgXWABm2Wd8wnrvM="
             }
           },
           "DeleteLambdaFunction": {
@@ -413,7 +413,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z/project.zip"
+                "S3Key": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z/project.zip"
               },
               "FunctionName": "project-dev-delete",
               "Handler": "todos/delete.deleteRun",
@@ -437,14 +437,14 @@
               "IamRoleLambdaExecution"
             ]
           },
-          "DeleteLambdaVersion1dxihvfyIWgdSjR1p4XmipacuNdc8MosKWr00cJhE": {
+          "DeleteLambdaVersionYJzNpT7y8rusC1DmKOGPjQ6htPv48wqrZ7z6Fjaw": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "DeleteLambdaFunction"
               },
-              "CodeSha256": "ZnGZxk6ItWFyZQ5Ao2RnZju/Qv6FQSDGfBooLYzal+4="
+              "CodeSha256": "RdztzY8WtYl/8Ck6oszjXDJP6S9wgXWABm2Wd8wnrvM="
             }
           },
           "ApiGatewayRestApi": {
@@ -891,7 +891,7 @@
               "MethodResponses": []
             }
           },
-          "ApiGatewayDeployment1588718420191": {
+          "ApiGatewayDeployment1588720561068": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -1200,37 +1200,37 @@
           "CreateLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "CreateLambdaVersionzMVHgekkPY2ycrN0jBDi9MzRtoOezI3XHu5mj3l5esU"
+              "Ref": "CreateLambdaVersionqKqc3ABD7mhyfS4WNoosBRZuzwLDbQBzYGDOxScE"
             }
           },
           "ListLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "ListLambdaVersionPiYj7j8cuRpQ6BoWBbGMswSR0KsubUXePe5KIhfiOhQ"
+              "Ref": "ListLambdaVersionfGqcFWkaWs2VqDQbBe7nZDSfa9l0zgXlo5NMpS4ncLM"
             }
           },
           "GetLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "GetLambdaVersionZRAr0HhL7XQfVTEHgIzHDOyV80JXOq4DXUY5Xnm0E"
+              "Ref": "GetLambdaVersionSiEsAScH1eaEoHthkMpXg3ksCdVmamurDQhcsVojlNU"
             }
           },
           "GetIdLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "GetIdLambdaVersionwxndlsnaro59ERRSdTkPNNwZXs1Bcb8JTNVWfG55Es"
+              "Ref": "GetIdLambdaVersion1aGrNNmFuAEXtzp0UqjZmbv6HCFm98oDvglvqOQRfOY"
             }
           },
           "UpdateLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "UpdateLambdaVersionnpXlttr9VYvnsjclAciRee3hiSVsMwP4HDnzoXG2IU"
+              "Ref": "UpdateLambdaVersionFtFHffybcschQaNH9ulVdyZ0cIemQgpaSO7i4Rrwk"
             }
           },
           "DeleteLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "DeleteLambdaVersion1dxihvfyIWgdSjR1p4XmipacuNdc8MosKWr00cJhE"
+              "Ref": "DeleteLambdaVersionYJzNpT7y8rusC1DmKOGPjQ6htPv48wqrZ7z6Fjaw"
             }
           },
           "ServiceEndpoint": {
@@ -1365,7 +1365,7 @@
         "timeout": 6,
         "runtime": "python3.8",
         "vpc": {},
-        "versionLogicalId": "CreateLambdaVersionzMVHgekkPY2ycrN0jBDi9MzRtoOezI3XHu5mj3l5esU"
+        "versionLogicalId": "CreateLambdaVersionqKqc3ABD7mhyfS4WNoosBRZuzwLDbQBzYGDOxScE"
       },
       "list": {
         "handler": "todos/list.getAllRuns",
@@ -1403,7 +1403,7 @@
         "timeout": 6,
         "runtime": "python3.8",
         "vpc": {},
-        "versionLogicalId": "ListLambdaVersionPiYj7j8cuRpQ6BoWBbGMswSR0KsubUXePe5KIhfiOhQ"
+        "versionLogicalId": "ListLambdaVersionfGqcFWkaWs2VqDQbBe7nZDSfa9l0zgXlo5NMpS4ncLM"
       },
       "get": {
         "handler": "todos/get.getRun",
@@ -1441,7 +1441,7 @@
         "timeout": 6,
         "runtime": "python3.8",
         "vpc": {},
-        "versionLogicalId": "GetLambdaVersionZRAr0HhL7XQfVTEHgIzHDOyV80JXOq4DXUY5Xnm0E"
+        "versionLogicalId": "GetLambdaVersionSiEsAScH1eaEoHthkMpXg3ksCdVmamurDQhcsVojlNU"
       },
       "getId": {
         "handler": "todos/getId.getIdRuns",
@@ -1479,7 +1479,7 @@
         "timeout": 6,
         "runtime": "python3.8",
         "vpc": {},
-        "versionLogicalId": "GetIdLambdaVersionwxndlsnaro59ERRSdTkPNNwZXs1Bcb8JTNVWfG55Es"
+        "versionLogicalId": "GetIdLambdaVersion1aGrNNmFuAEXtzp0UqjZmbv6HCFm98oDvglvqOQRfOY"
       },
       "update": {
         "handler": "todos/update.updateRun",
@@ -1517,7 +1517,7 @@
         "timeout": 6,
         "runtime": "python3.8",
         "vpc": {},
-        "versionLogicalId": "UpdateLambdaVersionnpXlttr9VYvnsjclAciRee3hiSVsMwP4HDnzoXG2IU"
+        "versionLogicalId": "UpdateLambdaVersionFtFHffybcschQaNH9ulVdyZ0cIemQgpaSO7i4Rrwk"
       },
       "delete": {
         "handler": "todos/delete.deleteRun",
@@ -1555,7 +1555,7 @@
         "timeout": 6,
         "runtime": "python3.8",
         "vpc": {},
-        "versionLogicalId": "DeleteLambdaVersion1dxihvfyIWgdSjR1p4XmipacuNdc8MosKWr00cJhE"
+        "versionLogicalId": "DeleteLambdaVersionYJzNpT7y8rusC1DmKOGPjQ6htPv48wqrZ7z6Fjaw"
       }
     },
     "resources": {
@@ -1626,7 +1626,7 @@
     "artifact": "/home/zach/workspace/playground/northstar-recommendations/.serverless/project.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/project/dev/1588718422603-2020-05-05T22:40:22.603Z",
+    "artifactDirectoryName": "serverless/project/dev/1588720563020-2020-05-05T23:16:03.020Z",
     "artifact": "project.zip"
   }
 }

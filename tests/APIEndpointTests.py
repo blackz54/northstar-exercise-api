@@ -54,12 +54,13 @@ class APIEndpointTestFunctions(unittest.TestCase):
                                          data=json.dumps(data1))
         delete_result2 = requests.delete(self.url + '/todos/' + id + run2,
                                          data=json.dumps(data2))
-
+        bad_result = requests.get(self.url + '/todos/' + id + run2)
         self.assertEqual(delete_result1.status_code, 200)
         self.assertEqual(create_result1.status_code, 200)
         self.assertEqual(create_result2.status_code, 200)
         self.assertEqual(delete_result1.status_code, 200)
         self.assertEqual(delete_result2.status_code, 200)
+        self.assertEqual(bad_result.status_code, 502)
 
     def test_get_id_runs(self):
         data1 = {'id': 'USER-SUB-1234', 'run': 'copenhaggen'}
@@ -71,11 +72,13 @@ class APIEndpointTestFunctions(unittest.TestCase):
         result = requests.get(self.url + '/todos/' + 'USER-SUB-1234')
         del_result = requests.delete(self.url + '/todos/' + 'ANOTHER-SUB-1234/' + 'challenger',
                                      data=data3)
+        bad_result = requests.get(self.url + '/todos/' + 'ANOTHER-SUB-1234/' + 'challenger')
         self.assertEqual(create_result1.status_code, 200)
         self.assertEqual(create_result2.status_code, 200)
         self.assertEqual(create_result3.status_code, 200)
         self.assertEqual(result.status_code, 200)
         self.assertEqual(del_result.status_code, 200)
+        self.assertEqual(bad_result.status_code, 502)
 
 
 if __name__ == '__main__':
